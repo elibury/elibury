@@ -91,11 +91,11 @@
 
 <div align="center">
 
-<a href="https://github.com/elisplash">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elisplash&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E2A93B&icon_color=FF6F61&text_color=c9d1d9&ring_color=FF6F61&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<a href="https://github.com/elibury">
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elibury&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E2A93B&icon_color=FF6F61&text_color=c9d1d9&ring_color=FF6F61&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
-<a href="https://github.com/elisplash">
-  <img height="200" src="https://streak-stats.demolab.com?user=elisplash&hide_border=true&background=0d1117&ring=FF6F61&fire=E2A93B&currStreakLabel=E2A93B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="Streak Stats"/>
+<a href="https://github.com/elibury">
+  <img height="200" src="https://streak-stats.demolab.com?user=elibury&hide_border=true&background=0d1117&ring=FF6F61&fire=E2A93B&currStreakLabel=E2A93B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="Streak Stats"/>
 </a>
 
 </div>
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elisplash&bg_color=0d1117&color=E2A93B&line=FF6F61&point=2D5A3D&area=true&area_color=2D5A3D&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elibury&bg_color=0d1117&color=E2A93B&line=FF6F61&point=2D5A3D&area=true&area_color=2D5A3D&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=elisplash&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=elibury&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
@@ -124,16 +124,16 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=elisplash&color=2D5A3D&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=elibury&color=2D5A3D&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 <!-- Snake animation — requires GitHub Actions. Fix billing to enable.
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elisplash/elisplash/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elisplash/elisplash/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/elisplash/elisplash/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elibury/elibury/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elibury/elibury/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/elibury/elibury/output/github-snake-dark.svg" />
   </picture>
 </div>
 -->
